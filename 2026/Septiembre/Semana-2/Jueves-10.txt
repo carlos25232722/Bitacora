@@ -1,0 +1,13 @@
+D: 1
+Timestamp: 2026-09-10 12:45
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Recepción de instrucciones iniciales para el trabajo final de la guía de aprendizaje.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Iniciar el desarrollo de la actividad final de la guía ("Multiverso de los archivos").
+
+ID: 2
+Timestamp: 2026-09-10 13:00
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Ejecución de actividades de transferencia de conocimiento en Git Bash (rescate de mascota, unificación de ramas y documentación en bitácora).
+Impedimentos: Confusión inicial de rutas y errores de sintaxis que requirieron reiniciar el ejercicio desde el inicio.
+Plan de Acción: Consultar con compañeros e instructor para aclarar dudas y seguir las indicaciones para la siguiente actividad.
