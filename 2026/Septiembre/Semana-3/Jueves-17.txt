@@ -1,0 +1,45 @@
+ID: 1
+Timestamp: 2026-09-17 12:45
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Asistencia a la presentación de proyecto de etapa productiva realizada por una aprendiz.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Continuar con la actividad final de la guía "Multiverso de los archivos".
+
+ID: 2
+Timestamp: 2026-09-17 14:24
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Desarrollo de actividades de transferencia de conocimiento en Git Bash (rescate de mascota, unificación de ramas y documentación).
+Impedimentos: Confusión inicial en la navegación de carpetas y fallas técnicas que obligaron a reiniciar el procedimiento.
+Plan de Acción: Inicializar el repositorio y registrar el commit base en la rama main.
+
+ID: 3
+Timestamp: 2026-09-17 15:05
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Creación de la estructura base en la carpeta volver_pasado, inicialización del repositorio (git init) y creación del archivo solucion.txt con Nano.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Registrar el commit inicial en la rama main como primer punto de control.
+
+ID: 4
+Timestamp: 2026-09-17 15:05
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Ejecución del commit inicial en la rama main para solucion.txt y verificación del autor en el registro del historial con git log -1.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Desplegar la estructura de ramas del proyecto con la creación de develop y feature/login.
+
+
+ID: 5
+Timestamp: 2026-09-17 3:05 - 5:05
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Se desplegó la arquitectura de trabajo creando la rama de integración develop y la rama de característica feature/login mediante git switch -c. Se confirmó la existencia de las ramas dentro del árbol de trabajo del repositorio.
+Evidencia: Captura de pantalla de la terminal con los comandos ejecutados y las ramas creadas.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Desarrollar el archivo de módulo login.txt y registrar los cambios dentro de la rama feature/login.
+
+
+ID: 6
+Timestamp: 2026-09-17 3:05 - 5:05
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Se creó el archivo login.txt en la rama feature/login simulando el desarrollo de un nuevo módulo. Los cambios fueron añadidos al área de preparación (staging area) y registrados en el historial mediante un commit independiente.
+Evidencia: Captura de pantalla de la terminal con el archivo creado y el commit registrado.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Regresar a la rama develop, fusionar los cambios de feature/login de forma limpia y eliminar la rama temporal.
