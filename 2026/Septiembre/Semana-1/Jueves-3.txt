@@ -59,3 +59,10 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Realizamos una votacion para decidir un castigo por si alguien no alcanzaba a entregar una actividad o la entrega tarde
 Impedimentos: Sin impedimentos operativos
 Plan de Acción: Hacer el ultimo trabajo de la guia de aprendizaje por hoy
+
+ID: 9
+Timestamp: 2026-09-03 4:42 - 4:59
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos las actividades de apropiacion de la guia de aprendizaje teniendo una hora para realizar los comando y ejecutarlos y realizando un informe tecnico con las capturas y las especificaciones de que era cada cosa y para que servia
+Impedimentos: Hubo una cierta confusion al principio para realizar los comando porque no termine de entender como ejecutar los coamndo y relizar el informe y como debi estar
+Plan de Acción: Realizar Actividades de transferencia del conocimiento en la proxima formacion
