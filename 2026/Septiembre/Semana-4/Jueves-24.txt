@@ -4,3 +4,13 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Trabajo participativo grupal en consola para resolver el ejercicio de Git Flow (creación de ramas, cambio de contexto con git switch, fusiones con git merge y resolución de conflictos).
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Continuar con el desarrollo de las actividades de transferencia del punto D (sección 3.4).
+
+
+
+ID: 2
+Timestamp: 2026-09-10 3:35 - 6:30
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Desarrollo de la actividad de transferencia 3.4 punto D, traspaso de la bitácora a repositorio en git.
+Evidencia: Documento "Actividad de transferencia 3.4 punto D" con capturas del proceso.
+Impedimentos: Confusión al principio sobre cómo acceder a la carpeta, y luego algunos errores técnicos al realizar la actividad que me hicieron comenzar desde el principio.
+Plan de Acción: Esperar indicaciones para la siguiente guía de trabajo en la próxima formación.
