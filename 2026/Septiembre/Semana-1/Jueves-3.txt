@@ -18,3 +18,12 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Análisis de conceptos sobre control de versiones y manejo de líneas temporales a través de contenido audiovisual (serie Loki).
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Continuar con los puntos de la guía de aprendizaje propuestos por el instructor.
+
+
+ID: 4
+Timestamp: 2026-09-03 2:02 - 2:15
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: El instructor nos dijo que instaláramos la última versión de Git con su ayuda para poder instalarla.
+Evidencia: Captura de pantalla de la instalación de Git.
+Impedimentos: No teníamos la clave de administrador para realizar la instalación de git.
+Plan de Acción: Empezar a ejecutar los comandos pedidos por el instructor.
