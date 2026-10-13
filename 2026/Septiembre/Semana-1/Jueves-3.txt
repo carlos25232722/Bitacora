@@ -11,3 +11,10 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Introducción general a la nueva guía de aprendizaje por parte del instructor.
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Visualizar material audiovisual propuesto por el instructor.
+
+ID: 3
+Timestamp: 2026-09-03 13:10
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Análisis de conceptos sobre control de versiones y manejo de líneas temporales a través de contenido audiovisual (serie Loki).
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Continuar con los puntos de la guía de aprendizaje propuestos por el instructor.
