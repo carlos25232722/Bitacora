@@ -20,3 +20,12 @@ Objeto Técnico: Realizamos un juego en Kahoot de los temas que hemos visto de l
 Evidencia: Captura de pantalla del juego en Kahoot grupal.
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Continuar con el siguiente juego de manera individual.
+
+
+ID: 4
+Timestamp: 2026-09-10 4:20 - 4:40
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos un segundo Kahoot pero de forma individual sobre los mismos temas que el primero.
+Evidencia: Captura de pantalla del segundo Kahoot individual.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Realizar el siguiente juego en dos equipos.
