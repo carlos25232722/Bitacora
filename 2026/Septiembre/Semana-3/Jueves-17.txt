@@ -34,3 +34,12 @@ Objeto Técnico: Se desplegó la arquitectura de trabajo creando la rama de inte
 Evidencia: Captura de pantalla de la terminal con los comandos ejecutados y las ramas creadas.
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Desarrollar el archivo de módulo login.txt y registrar los cambios dentro de la rama feature/login.
+
+
+ID: 6
+Timestamp: 2026-09-17 3:05 - 5:05
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Se creó el archivo login.txt en la rama feature/login simulando el desarrollo de un nuevo módulo. Los cambios fueron añadidos al área de preparación (staging area) y registrados en el historial mediante un commit independiente.
+Evidencia: Captura de pantalla de la terminal con el archivo creado y el commit registrado.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Regresar a la rama develop, fusionar los cambios de feature/login de forma limpia y eliminar la rama temporal.
