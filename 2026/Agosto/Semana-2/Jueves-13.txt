@@ -12,18 +12,11 @@ Objeto Técnico: Investigación en grupo de trabajo y presentación colaborativa
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Continuar con la siguiente actividad de la guía de aprendizaje.
 
-ID: 3
-Timestamp: 13/8/2026 2:00:00 PM
-Autoría: Jesus David Quiñones Bernal
-Objeto Técnico: La siguiente actividad propuesta por el instructor fue: Responder una breve pregunta sobre qué beneficios tendríamos al olvidarnos del mouse y trabajar con el teclado a la hora de hacer uso de un pc.
-Evidencia: https://docs.google.com/document/d/1xL256hxhiAPh7rCpfLB0-2wSJp1Rrp6J2PuhQrbis/edit?tab=t.0
-Impedimentos: Sin impedimentos operativos
-Plan de Acción: Finalizada la actividad del mapa mental, se continúa con la elaboración de la tabla "Del hábito cotidiano al estándar laboral", relacionando los hábitos cotidianos con los estándares laborales.
 
-ID: 4
-Timestamp: 13/8/2026 2:30:00 PM
-Autoría: Jesus David Quiñones Bernal
-Objeto Técnico: En la siguiente actividad propuesta por el instructor, plasmamos en una hoja de papel nuestro mapa mental de manera escrita y gráfica mediante dibujos.
-Evidencia: https://docs.google.com/document/d/1qyv1BMGfX4xRT6VclvtzvSQWrKxN9PDOCuvUT4F5c/edit?tab=t.0
-Impedimentos: Sin impedimentos operativos
-Plan de Acción: Se continúa con las preguntas de cierre para finalizar la jornada académica, promoviendo la reflexión sobre los conocimientos adquiridos, poniendo los de igual manera en práctica.
+ID: 3
+Timestamp: 13/08/2026 3:30 PM a 4:06 PM
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos un escrito de máximo 5 renglones sobre un video que nos mostró nuestro instructor de un músico ciego que toca el piano.
+Evidencia: Captura del escrito realizado.
+Impedimentos: No hubo impedimentos al realizar la actividad.
+Plan de Acción: Realizar el mapa mental sobre el escrito realizado.
