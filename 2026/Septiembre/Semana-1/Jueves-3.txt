@@ -45,3 +45,10 @@ Objeto Técnico: Realización de una actividad de creación de ramificación a t
 Evidencia: Captura de pantalla de la terminal con las ramificaciones creadas.
 Impedimentos: Tuve unas confusiones al principio por moverme entre las ramificaciones.
 Plan de Acción: Escuchar una presentación de representantes.
+
+ID: 7
+Timestamp: 2026-09-03 4:30 - 4:40
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Escuchamos una presentacion para ser representante de los aprendices para ofrecer sus propuestas para votar por ellos
+Impedimentos: Sin impedimentos operativos
+Plan de Acción: Realizar votacion para castigo
