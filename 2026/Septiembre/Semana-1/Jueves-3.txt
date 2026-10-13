@@ -52,3 +52,10 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Escuchamos una presentacion para ser representante de los aprendices para ofrecer sus propuestas para votar por ellos
 Impedimentos: Sin impedimentos operativos
 Plan de Acción: Realizar votacion para castigo
+
+ID: 8
+Timestamp: 2026-09-03 4:42 - 4:58
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos una votacion para decidir un castigo por si alguien no alcanzaba a entregar una actividad o la entrega tarde
+Impedimentos: Sin impedimentos operativos
+Plan de Acción: Hacer el ultimo trabajo de la guia de aprendizaje por hoy
