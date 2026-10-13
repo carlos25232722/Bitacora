@@ -18,3 +18,10 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Creación de la estructura base en la carpeta volver_pasado, inicialización del repositorio (git init) y creación del archivo solucion.txt con Nano.
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Registrar el commit inicial en la rama main como primer punto de control.
+
+ID: 4
+Timestamp: 2026-09-17 15:05
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Ejecución del commit inicial en la rama main para solucion.txt y verificación del autor en el registro del historial con git log -1.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Desplegar la estructura de ramas del proyecto con la creación de develop y feature/login.
