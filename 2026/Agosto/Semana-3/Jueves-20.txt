@@ -11,3 +11,14 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Desarrollo de misiones prácticas en Git Bash e investigación de preguntas teóricas de la guía.
 Impedimentos: Dificultad inicial con la sintaxis de comandos y la navegación dentro de directorios en la terminal.
 Plan de Acción: Apoyarse en herramientas de consulta, material de Classroom y dudas con el instructor/compañeros.
+<<<<<<< HEAD
+=======
+
+ID: 3
+Timestamp: 2026-08-20 2:30 - 3:30
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos un descanso
+Impedimentos: No hubo impedimentos al realizar la actividad
+Plan de Acción: Continuar con un juego de preguntas sobre comandos de linux vistos en clase y en la guía de aprendizaje
+
+>>>>>>> d7c2029 (docs: agrega registro 3 al archivo Jueves-20.txt)
