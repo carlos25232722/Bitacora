@@ -1,0 +1,68 @@
+ID: 1
+Timestamp: 2026-09-03 12:40
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Exposición de los compañeros sobre comandos de la terminal de Linux y administración de proyectos.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Atender las indicaciones del instructor para la siguiente guía de trabajo.
+
+ID: 2
+Timestamp: 2026-09-03 13:00
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Introducción general a la nueva guía de aprendizaje por parte del instructor.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Visualizar material audiovisual propuesto por el instructor.
+
+ID: 3
+Timestamp: 2026-09-03 13:10
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Análisis de conceptos sobre control de versiones y manejo de líneas temporales a través de contenido audiovisual (serie Loki).
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Continuar con los puntos de la guía de aprendizaje propuestos por el instructor.
+
+
+ID: 4
+Timestamp: 2026-09-03 2:02 - 2:15
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: El instructor nos dijo que instaláramos la última versión de Git con su ayuda para poder instalarla.
+Evidencia: Captura de pantalla de la instalación de Git.
+Impedimentos: No teníamos la clave de administrador para realizar la instalación de git.
+Plan de Acción: Empezar a ejecutar los comandos pedidos por el instructor.
+
+
+ID: 5
+Timestamp: 2026-09-03 2:15 - 3:00
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos los ejercicios solicitados por el instructor en la terminal de git bash creando carpetas y archivos y creando un repositorio local en git dentro de la terminal.
+Evidencia: Captura de pantalla de la terminal con los comandos ejecutados.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Realizar ejercicio guiado de ramificaciones.
+
+
+ID: 6
+Timestamp: 2026-09-03 3:30 - 4:30
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realización de una actividad de creación de ramificación a través de la terminal sobre las ramificaciones.
+Evidencia: Captura de pantalla de la terminal con las ramificaciones creadas.
+Impedimentos: Tuve unas confusiones al principio por moverme entre las ramificaciones.
+Plan de Acción: Escuchar una presentación de representantes.
+
+ID: 7
+Timestamp: 2026-09-03 4:30 - 4:40
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Escuchamos una presentacion para ser representante de los aprendices para ofrecer sus propuestas para votar por ellos
+Impedimentos: Sin impedimentos operativos
+Plan de Acción: Realizar votacion para castigo
+
+ID: 8
+Timestamp: 2026-09-03 4:42 - 4:58
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos una votacion para decidir un castigo por si alguien no alcanzaba a entregar una actividad o la entrega tarde
+Impedimentos: Sin impedimentos operativos
+Plan de Acción: Hacer el ultimo trabajo de la guia de aprendizaje por hoy
+
+ID: 9
+Timestamp: 2026-09-03 4:42 - 4:59
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos las actividades de apropiacion de la guia de aprendizaje teniendo una hora para realizar los comando y ejecutarlos y realizando un informe tecnico con las capturas y las especificaciones de que era cada cosa y para que servia
+Impedimentos: Hubo una cierta confusion al principio para realizar los comando porque no termine de entender como ejecutar los coamndo y relizar el informe y como debi estar
+Plan de Acción: Realizar Actividades de transferencia del conocimiento en la proxima formacion
