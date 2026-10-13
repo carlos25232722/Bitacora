@@ -1,0 +1,6 @@
+ID: 1
+Timestamp: 2026-09-03 12:40
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Exposición de los compañeros sobre comandos de la terminal de Linux y administración de proyectos.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Atender las indicaciones del instructor para la siguiente guía de trabajo.
