@@ -1,0 +1,13 @@
+ID: 1
+Timestamp: 2026-08-20 12:30
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Recepción de indicaciones del instructor para la jornada de actividades de apropiación de la guía en Git Bash.
+Impedimentos: Confusión inicial sobre la dinámica de entrega y el alcance de la actividad.
+Plan de Acción: Formular preguntas al instructor y realizar un análisis más detallado de las explicaciones.
+
+ID: 2
+Timestamp: 2026-08-20 13:00
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Desarrollo de misiones prácticas en Git Bash e investigación de preguntas teóricas de la guía.
+Impedimentos: Dificultad inicial con la sintaxis de comandos y la navegación dentro de directorios en la terminal.
+Plan de Acción: Apoyarse en herramientas de consulta, material de Classroom y dudas con el instructor/compañeros.
