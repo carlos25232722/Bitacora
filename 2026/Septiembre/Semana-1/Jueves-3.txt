@@ -27,3 +27,12 @@ Objeto Técnico: El instructor nos dijo que instaláramos la última versión de
 Evidencia: Captura de pantalla de la instalación de Git.
 Impedimentos: No teníamos la clave de administrador para realizar la instalación de git.
 Plan de Acción: Empezar a ejecutar los comandos pedidos por el instructor.
+
+
+ID: 5
+Timestamp: 2026-09-03 2:15 - 3:00
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos los ejercicios solicitados por el instructor en la terminal de git bash creando carpetas y archivos y creando un repositorio local en git dentro de la terminal.
+Evidencia: Captura de pantalla de la terminal con los comandos ejecutados.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Realizar ejercicio guiado de ramificaciones.
