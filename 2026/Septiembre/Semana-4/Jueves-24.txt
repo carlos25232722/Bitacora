@@ -1,0 +1,6 @@
+ID: 1
+Timestamp: 2026-09-24 12:45
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Trabajo participativo grupal en consola para resolver el ejercicio de Git Flow (creación de ramas, cambio de contexto con git switch, fusiones con git merge y resolución de conflictos).
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Continuar con el desarrollo de las actividades de transferencia del punto D (sección 3.4).
