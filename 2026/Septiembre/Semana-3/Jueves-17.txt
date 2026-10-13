@@ -25,3 +25,12 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Ejecución del commit inicial en la rama main para solucion.txt y verificación del autor en el registro del historial con git log -1.
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Desplegar la estructura de ramas del proyecto con la creación de develop y feature/login.
+
+
+ID: 5
+Timestamp: 2026-09-17 3:05 - 5:05
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Se desplegó la arquitectura de trabajo creando la rama de integración develop y la rama de característica feature/login mediante git switch -c. Se confirmó la existencia de las ramas dentro del árbol de trabajo del repositorio.
+Evidencia: Captura de pantalla de la terminal con los comandos ejecutados y las ramas creadas.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Desarrollar el archivo de módulo login.txt y registrar los cambios dentro de la rama feature/login.
