@@ -11,3 +11,12 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Ejecución de actividades de transferencia de conocimiento en Git Bash (rescate de mascota, unificación de ramas y documentación en bitácora).
 Impedimentos: Confusión inicial de rutas y errores de sintaxis que requirieron reiniciar el ejercicio desde el inicio.
 Plan de Acción: Consultar con compañeros e instructor para aclarar dudas y seguir las indicaciones para la siguiente actividad.
+
+
+ID: 3
+Timestamp: 2026-09-10 3:40 - 4:20
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos un juego en Kahoot de los temas que hemos visto de los comandos de git de forma grupal.
+Evidencia: Captura de pantalla del juego en Kahoot grupal.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Continuar con el siguiente juego de manera individual.
