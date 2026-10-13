@@ -38,3 +38,9 @@ Objeto Técnico: Realizar las preguntas en la tabla de la guía de aprendizaje d
 Impedimentos: Tenia poco material par hacerlo a mano y poco espacio en la hoja y me falto una tabla y la realice en una hoja aparte
 Plan de Acción: Realizar actividad de linea de comandos en la terminal
 
+ID: 6
+Timestamp: 2026-08-13 17:30
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizacion de ejecucion de comando en la terminal de gitbash con base a a actividad de la guia
+Impedimentos: Hubo confusion con los comandos y su sintaxis pero logre entender un poco mas
+Plan de Acción: Realizar la siguiente guia de aprendizaje en la proxima formacion
