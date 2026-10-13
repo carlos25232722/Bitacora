@@ -21,4 +21,13 @@ Objeto Técnico: Realizamos un descanso
 Impedimentos: No hubo impedimentos al realizar la actividad
 Plan de Acción: Continuar con un juego de preguntas sobre comandos de linux vistos en clase y en la guía de aprendizaje
 
+<<<<<<< HEAD
 >>>>>>> d7c2029 (docs: agrega registro 3 al archivo Jueves-20.txt)
+=======
+ID: 4
+Timestamp: 2026-08-20 3:40 - 4:10
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos un juego en kahoot sobre la teminal de git bash donde el que perdiera tenia que hacer una presentacion
+Impedimentos: Un poco de confusión al principio de como se juagaba posteriormente termine de acostumbrarme rapidamente
+Plan de Acción: Realizar el siguiente juego sobre la terminal de linux
+>>>>>>> 460ac44 (docs: agrega registro 4 al archivo Jueves-20.txt)
