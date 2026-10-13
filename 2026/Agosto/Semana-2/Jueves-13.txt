@@ -1,0 +1,40 @@
+ID: 1
+Timestamp: 2026-08-13 13:10
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Análisis de la reflexión inicial y formulación de preguntas al instructor sobre la guía.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Realizar actividad grupal con los demás compañeros.
+
+ID: 2
+Timestamp: 2026-08-13 13:30
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Investigación en grupo de trabajo y presentación colaborativa del tema asignado.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Continuar con la siguiente actividad de la guía de aprendizaje.
+
+
+ID: 3
+Timestamp: 13/08/2026 3:30 PM a 4:06 PM
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos un escrito de máximo 5 renglones sobre un video que nos mostró nuestro instructor de un músico ciego que toca el piano.
+Evidencia: Captura del escrito realizado.
+Impedimentos: No hubo impedimentos al realizar la actividad.
+Plan de Acción: Realizar el mapa mental sobre el escrito realizado.
+
+
+
+ID: 4
+Timestamp: 13/08/2026 4:07 PM a 4:30 PM
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizamos un mapa mental sobre el escrito que realizamos anteriormente.
+Evidencia: Captura del mapa mental realizado.
+Impedimentos: No hubo impedimentos al realizar la actividad.
+Plan de Acción: Realizar las preguntas de la siguiente actividad de la guía de aprendizaje.
+
+ID: 5
+Timestamp: 2026-08-13 16:30
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realizar las preguntas en la tabla de la guía de aprendizaje de los comandos
+Impedimentos: Tenia poco material par hacerlo a mano y poco espacio en la hoja y me falto una tabla y la realice en una hoja aparte
+Plan de Acción: Realizar actividad de linea de comandos en la terminal
+
