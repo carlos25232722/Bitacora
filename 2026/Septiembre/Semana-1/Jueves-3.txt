@@ -36,3 +36,12 @@ Objeto Técnico: Realizamos los ejercicios solicitados por el instructor en la t
 Evidencia: Captura de pantalla de la terminal con los comandos ejecutados.
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Realizar ejercicio guiado de ramificaciones.
+
+
+ID: 6
+Timestamp: 2026-09-03 3:30 - 4:30
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Realización de una actividad de creación de ramificación a través de la terminal sobre las ramificaciones.
+Evidencia: Captura de pantalla de la terminal con las ramificaciones creadas.
+Impedimentos: Tuve unas confusiones al principio por moverme entre las ramificaciones.
+Plan de Acción: Escuchar una presentación de representantes.
