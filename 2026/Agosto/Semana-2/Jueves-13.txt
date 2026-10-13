@@ -4,3 +4,10 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Análisis de la reflexión inicial y formulación de preguntas al instructor sobre la guía.
 Impedimentos: Sin impedimentos operativos.
 Plan de Acción: Realizar actividad grupal con los demás compañeros.
+
+ID: 2
+Timestamp: 2026-08-13 13:30
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Investigación en grupo de trabajo y presentación colaborativa del tema asignado.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Continuar con la siguiente actividad de la guía de aprendizaje.
