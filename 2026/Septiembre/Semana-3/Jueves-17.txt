@@ -11,3 +11,10 @@ Autoría: Carlos Alberto Ordoñez Jaimes
 Objeto Técnico: Desarrollo de actividades de transferencia de conocimiento en Git Bash (rescate de mascota, unificación de ramas y documentación).
 Impedimentos: Confusión inicial en la navegación de carpetas y fallas técnicas que obligaron a reiniciar el procedimiento.
 Plan de Acción: Inicializar el repositorio y registrar el commit base en la rama main.
+
+ID: 3
+Timestamp: 2026-09-17 15:05
+Autoría: Carlos Alberto Ordoñez Jaimes
+Objeto Técnico: Creación de la estructura base en la carpeta volver_pasado, inicialización del repositorio (git init) y creación del archivo solucion.txt con Nano.
+Impedimentos: Sin impedimentos operativos.
+Plan de Acción: Registrar el commit inicial en la rama main como primer punto de control.
